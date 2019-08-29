@@ -1,0 +1,63 @@
+---
+title: "Mini HW 0-1: Introduce yourself"
+author: "Your Name"
+date: "Today's date"
+output: html_document
+---
+**Due Saturday, September 7 @ 11:59pm through Github**
+
+Your first assignment is to provide some brief information about yourself through an R Markdown (`.Rmd`) file that you submit through Github.  All of your assignments for this class with be turned in as `.Rmd` files, so you can think of this first assignment as your opportunity to practice the homework submission process.
+
+**Work through the following items:**
+
+1. Knit this document by clicking the `Knit` button (w/ ball of yarn) at the top of this window.  
+
+2. By default, the rendered document will open in a new window. However, you can keep it within the main RStudio window by clicking on the gear button above and selecting `Preview in Viewer Pane`.  Then the rendered document will show in the `Viewer` tab in the bottom right corner of RStudio.  Try this!
+
+3. Edit the YAML header of this `.Rmd` file to include your name and today's date.  Knit the document again and be sure your changes are reflected in the updated output!
+
+4. Complete the following information about yourself below, replacing *my* information with *your information*.  Then knit the document again and be sure your changes are in the rendered document.
+
+* **Preferred name:** Dr. Jager
+* **Pronunciation of your name:** JAY-ger
+* **Pronouns (if you want to share, otherwise just leave blank):** she/her
+* **Do you have any previous programming experience?**  I once took a course in `C++` when I was in college.  I have been programming in `R` for almost 20 years (yikes!), but I still learn how to do new things with it every day.
+* **Why are you taking this course?** Because everytime I teach this course I learn something new about `R`.  Also, it's my job.
+* **Anything else you would like me to know?** I'm looking forward to a great semester!
+
+4. One way you can interact with an `.Rmd` file is by running code "chunks" by clicking the green triangle at the top of the chunk.  Run the code chunk below:
+
+```{r}
+height <- c(60, 62, 71, 69, 72, 61, 61, 65)
+mean(height)
+```
+
+5. Write one sentence to desribe what you see in the output from the code chunk.  This sentence doesn't need to be profound.
+
+**Fill in your sentence here!**
+
+6. Now knit the file again; you should see both the result of your code chunk and your sentence description in your updated rendered document!
+
+7. Another nice think about `.Rmd` files is that it makes it easy to include graphics in your reports without having to copy and paste.  Run the code chunk below and look at the graph that is produced in the `Plots` tab in the bottom right corner of RStudio:
+
+```{r}
+x <- c(1,2,3,4,5,6,7,8,9,10)
+y <- rnorm(10, mean=x)
+plot(x,y)
+```
+
+8. Now knit the file again and pay attention to how the graph is included in the document! 
+
+9. If your document successfully knit without error, you are ready to submit your assignment through Github.  To do so, follow the steps below.  (If your document didn't successfully knit, please reach out to me over email at `phbiostats@jhu.edu` so I can help you trouble-shoot the issue.)
+
+* First you need to **commit** the changes you've made to the document.  Click the colorful Git button at the top of the RStudio window and select "Commit" from the menu.
+* In the window that opens, **stage** your changes by clicking the check boxes next to the `Mini0-1.Rmd` and `Mini0-1.html` files.
+* In the "Commit message" box, type a short description of what changes you've made, something like: `Completed assignment`
+* Click the "Commit" button on the bottom right.
+* You'll see a window that will tell you about the changes that you've made.  Click "Close" to close the window.  You've successfully committed! You can close this commit window now.
+* After committing, you must **push** your changes to the repository on Github.  Do this by clicking the colorful Git button again and select "Push Branch".  
+* Again, you'll see a window open that tells you your changes have been pushed!
+* If you want, you can look at your repository on [Github.com](https://github.com/) and should be able to see your changes there!  
+* You've successfully submitted your assignment :)
+
+
