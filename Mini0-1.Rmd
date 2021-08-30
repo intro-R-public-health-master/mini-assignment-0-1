@@ -4,7 +4,7 @@ author: "Your Name"
 date: "Today's date"
 output: html_document
 ---
-**Due Sunday, September 6 @ 11:59pm through Github**
+**Due at the end of class on Monday, August 30 through Github**
 
 Your first assignment is to provide some brief information about yourself through an R Markdown (`.Rmd`) file that you submit through Github.  All of your assignments for this class with be turned in as `.Rmd` files, so you can think of this first assignment as your opportunity to practice the homework submission process.
 
@@ -20,10 +20,10 @@ Your first assignment is to provide some brief information about yourself throug
 
 * **Preferred name:** Dr. Jager
 * **Pronunciation of your name:** JAY-ger
-* **Pronouns (if you want to share, otherwise just leave blank):** she/her
-* **Do you have any previous programming experience?**  I once took a course in `C++` when I was in college.  I have been programming in `R` for almost 20 years (yikes!), but I still learn how to do new things with it every day.
-* **Why are you taking this course?** Because everytime I teach this course I learn something new about `R`.  Also, it's my job.
-* **Anything else you would like me to know?** I'm looking forward to a great semester!
+* **Pronouns (if you want to share, otherwise just leave blank):** she/her/hers
+* **Do you have any previous programming experience?**  I once took a course in `C++` when I was in college.  I have been programming in `R` for almost 20 years (yikes!), but I still learn how to do new things with it every day. Often I learn something new while teaching the course because one of you figures out something cool.
+* **Why are you taking this course?** Because every time I teach this course I learn something new about `R`.  Also, it's my job.
+* **Anything else you would like me to know?** I'm looking forward to getting to know each of you this semester, and am grateful we can meet together in person instead of only online.
 
 4. One way you can interact with an `.Rmd` file is by running code "chunks" by clicking the green triangle at the top of the chunk.  Run the code chunk below:
 
