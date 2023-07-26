@@ -4,7 +4,7 @@ author: "Your Name"
 date: "Today's date"
 output: html_document
 ---
-**Due Thursday Sept 1 through Github**
+**Due Thursday Aug 31 through Github**
 
 Your first assignment is to provide some brief information about yourself through an R Markdown (`.Rmd`) file that you submit through Github.  All of your assignments for this class with be turned in as `.Rmd` files, so you can think of this first assignment as your opportunity to practice the homework submission process.
 
@@ -22,8 +22,8 @@ Your first assignment is to provide some brief information about yourself throug
 * **Pronunciation of your name:** T-ow-b
 * **Pronouns (if you want to share, otherwise just leave blank):** she/her/hers
 * **Do you have any previous programming experience?**  I took C and C++ in college, then learned APL (stands for "a programming language"), Delphi and Visual Basic when I worked as a consultant between undergrad and grad school.  I have been programming in `R` for almost 20 years (yikes!), but I still learn how to do new things with it every day. Often I learn something new while teaching the course because one of you figures out something cool.
-* **Why are you taking this course?** Because every time I teach this course I learn something new about `R`.  Also, it's my job.
-* **Anything else you would like me to know?** I'm looking forward to getting to know each of you this semester, and am grateful we can meet together in person instead of only online.
+* **Why are you taking this course?** Because every time I teach this course I learn something new about `R`.  Also, it's my job. :)
+* **Anything else you would like me to know?** I'm looking forward to getting to know each of you this semester! I love teaching PH Biostats, but this class allows me to actually get to know some of you more personally, which I always enjoy.
 
 4. One way you can interact with an `.Rmd` file is by running code "chunks" by clicking the green triangle at the top of the chunk.  Run the code chunk below:
 
@@ -32,7 +32,7 @@ height <- c(60, 62, 71, 69, 72, 61, 61, 65)
 mean(height)
 ```
 
-5. Write one sentence to desribe what you see in the output from the code chunk.  This sentence doesn't need to be profound.
+5. Write one sentence to describe what you see in the output from the code chunk.  This sentence doesn't need to be profound.
 
 **Fill in your sentence here!**
 
