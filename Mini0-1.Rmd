@@ -4,7 +4,7 @@ author: "Your Name"
 date: "Today's date"
 output: html_document
 ---
-**Due Thursday Sept 7 through Github**
+**Due Thursday Sept 5 through Github**
 
 Your first assignment is to provide some brief information about yourself through an R Markdown (`.Rmd`) file that you submit through Github.  All of your assignments for this class with be turned in as `.Rmd` files, so you can think of this first assignment as your opportunity to practice the homework submission process.
 
